@@ -1,8 +1,17 @@
 # DL_RTS_Paper
 Code and Data for Paper: 
 
+```Nitze, I., Heidler, K., Barth, S., & Grosse, G. (2021). Developing and Testing a Deep Learning Approach for Mapping Retrogressive Thaw Slumps. Remote Sensing, 13(21). https://doi.org/10.3390/rs13214294```
+
+
+#### Link: 
 https://www.mdpi.com/2072-4292/13/21/4294
 
+#### Graphical Abstract
+![graphical_abstract_v3](https://user-images.githubusercontent.com/4864803/138856236-29c85c2d-2122-4241-a85a-9f673f51041d.png)
+
+
+#### Citation
 ```
 @Article{rs13214294,
 AUTHOR = {Nitze, Ingmar and Heidler, Konrad and Barth, Sophia and Grosse, Guido},
@@ -18,4 +27,3 @@ ABSTRACT = {In a warming Arctic, permafrost-related disturbances, such as retrog
 DOI = {10.3390/rs13214294}
 }
 ```
-XXX
